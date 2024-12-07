@@ -11,10 +11,9 @@
 "plugins": "plugins" },
 
 "scripts": {
-"start": "node index.js",
-"qr": "node index.js qr",
-"code": "node index.js code" },
-
+    "start": "node index.js",
+    "qr": "node index.js qr"
+}
 "homepage": "https://github.com/Jostin207/GokuBot-MD-",
 "author": {
 "name": "Jostin.Oғᴄ" },
